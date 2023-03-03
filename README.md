@@ -1,12 +1,15 @@
 # Shop_online
 website e/commerce
+
 ## Programming languages:
 <li>HTML/CSS</li>
 <li>JavaScript</li>
 <li>C#</li>
+
 ## Frameworks:
 <li>ASP.Net</li>
 <li>JQuery</li>
+
 # Main function
 <li>Admin Manager Page</li>
 <li>Authentication</li>
