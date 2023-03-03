@@ -7,7 +7,7 @@ website e/commerce
 ## Frameworks:
 <li>ASP.Net</li>
 <li>JQuery</li>
-# Main function#
+# Main function
 <li>Admin Manager Page</li>
 <li>Authentication</li>
 <li>Sreach</li>
